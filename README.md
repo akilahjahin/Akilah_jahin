@@ -65,4 +65,5 @@ Before running the application, ensure you have the following installed:
     1. Open the Expo Go app on your mobile device.<br>
     2. Scan the QR code displayed in your terminal.<br>
     3. Select "Expo Go" when prompted.<br>
-    The project will start building and launch on your device.
+    
+   The project will start building and launch on your device.
